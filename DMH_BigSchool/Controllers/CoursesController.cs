@@ -17,7 +17,7 @@ namespace DMH_BigSchool.Controllers
         {
             _dbContext = new ApplicationDbContext();
         }
-        [Authorize]// bat buoc dang nhap
+        [Authorize]
 
         public ActionResult Create()
         {
@@ -43,7 +43,9 @@ namespace DMH_BigSchool.Controllers
                 CategoryId = viewModel.Category,
                 Place = viewModel.Place
             };
-            return View(viewModel);
+            _dbContext.Courses.Add(course);
+            _dbContext.SaveChanges();
+            return RedirectToAction("Index","Home");
         }
 
     }
