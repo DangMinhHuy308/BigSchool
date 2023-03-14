@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<DMH_BigSchool.Models.Course>
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -29,5 +30,17 @@
             <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
             <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
         </section>
+    </div>
+
+    <div class="row">
+        <ul>
+            @foreach(var course in Model)
+            {
+                <li>
+                    @course.DateTime - @course.Lecturer.Name
+                </li>
+
+            }
+        </ul>
     </div>
 </main>

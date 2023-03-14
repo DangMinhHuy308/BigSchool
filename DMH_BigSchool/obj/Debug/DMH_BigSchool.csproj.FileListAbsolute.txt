@@ -216,9 +216,10 @@ C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\bin\Microsoft.CodeDom.Pr
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.csproj.AssemblyReference.cache
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.Migrations.Bang.resources
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.Migrations.TaobangCategoryvaCourse.resources
-C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.Migrations.PopulateCategoryTable.resources
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.csproj.GenerateResource.cache
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.csproj.CoreCompileInputs.cache
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.csproj.CopyComplete
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.dll
 C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.pdb
+C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Nam3\Thuc hanh web\Tuan3\DMH_BigSchool\DMH_BigSchool\obj\Debug\DMH_BigSchool.Migrations.PopulateCategoryTable.resources

@@ -183,9 +183,13 @@
     <Compile Include="Migrations\202303060729206_Tao bang Category va Course.designer.cs">
       <DependentUpon>202303060729206_Tao bang Category va Course.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202303060740487_PopulateCategoryTable.cs" />
-    <Compile Include="Migrations\202303060740487_PopulateCategoryTable.designer.cs">
-      <DependentUpon>202303060740487_PopulateCategoryTable.cs</DependentUpon>
+    <Compile Include="Migrations\202303130821477_AddNameColumnToApplicationUser.cs" />
+    <Compile Include="Migrations\202303130821477_AddNameColumnToApplicationUser.designer.cs">
+      <DependentUpon>202303130821477_AddNameColumnToApplicationUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303131213568_PopulateCategoryTable.cs" />
+    <Compile Include="Migrations\202303131213568_PopulateCategoryTable.designer.cs">
+      <DependentUpon>202303131213568_PopulateCategoryTable.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -310,8 +314,11 @@
     <EmbeddedResource Include="Migrations\202303060729206_Tao bang Category va Course.resx">
       <DependentUpon>202303060729206_Tao bang Category va Course.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202303060740487_PopulateCategoryTable.resx">
-      <DependentUpon>202303060740487_PopulateCategoryTable.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202303130821477_AddNameColumnToApplicationUser.resx">
+      <DependentUpon>202303130821477_AddNameColumnToApplicationUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303131213568_PopulateCategoryTable.resx">
+      <DependentUpon>202303131213568_PopulateCategoryTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
